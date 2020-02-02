@@ -1,0 +1,10 @@
+name: BuyFly
+main: BuyFly\Main
+api: 3.0.0
+version: 0.1
+author: WoolChannel3295
+commands:
+  buyfly:
+    description: Buy Fly
+    default: true
+    usage: /buyfly
